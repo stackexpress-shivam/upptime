@@ -8,8 +8,6 @@ sites:
     url: https://stackexpress-shivam.github.io/upptime/
   - name: APYL
     url: https://apyl.com
-  - name: APYL
-    url: https://apyl.com
   - name: JodoHost
     url: https://www.jodohost.com
   - name: Google
@@ -25,8 +23,8 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
   logoUrl: https://stackexpress.com/images/logo.34df6519.png
-  name: StackExpress Upptime
-  introTitle: "**Upptime** for sites that matter."
+  name: StackExpress Uptime
+  introTitle: "**Monitoring** for sites that matter."
   introMessage: Uptime Monitor
   navbar:
     - title: Status
