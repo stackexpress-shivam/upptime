@@ -40,19 +40,19 @@
     "url": "https://www.jodohost.com",
     "icon": "https://favicons.githubusercontent.com/www.jodohost.com",
     "slug": "jodo-host",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "94.57%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.93%",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "94.16%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.92%",
     "time": 239,
-    "timeDay": 195,
-    "timeWeek": 219,
+    "timeDay": 201,
+    "timeWeek": 220,
     "timeMonth": 231,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2021-03-17": 78
+      "2021-03-17": 84
     }
   },
   {
@@ -108,7 +108,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-17": 704,
+      "2021-03-17": 710,
       "2021-03-16": 1440,
       "2021-03-15": 1440,
       "2021-03-14": 1440,
