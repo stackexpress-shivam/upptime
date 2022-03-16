@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
-    "time": 207,
-    "timeDay": 205,
-    "timeWeek": 240,
-    "timeMonth": 220,
+    "time": 206,
+    "timeDay": 109,
+    "timeWeek": 188,
+    "timeMonth": 215,
     "timeYear": 199,
     "dailyMinutesDown": {
       "2021-10-06": 136,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 241,
-    "timeDay": 189,
-    "timeWeek": 199,
-    "timeMonth": 235,
+    "timeDay": 199,
+    "timeWeek": 198,
+    "timeMonth": 230,
     "timeYear": 244,
     "dailyMinutesDown": {
       "2021-12-07": 18,
@@ -60,9 +60,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 335,
-    "timeDay": 230,
-    "timeWeek": 200,
-    "timeMonth": 222,
+    "timeDay": 208,
+    "timeWeek": 198,
+    "timeMonth": 220,
     "timeYear": 353,
     "dailyMinutesDown": {
       "2021-12-07": 16,
@@ -87,9 +87,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 96,
-    "timeDay": 88,
-    "timeWeek": 102,
+    "time": 95,
+    "timeDay": 82,
+    "timeWeek": 94,
     "timeMonth": 110,
     "timeYear": 98,
     "dailyMinutesDown": {}
@@ -102,13 +102,13 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.72%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 216,
-    "timeDay": 38,
-    "timeWeek": 124,
-    "timeMonth": 369,
+    "timeDay": 112,
+    "timeWeek": 130,
+    "timeMonth": 367,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2022-03-08": 28
@@ -120,7 +120,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "24.37%",
+    "uptime": "24.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -131,7 +131,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-15": 71,
+      "2022-03-16": 70,
+      "2022-03-15": 1440,
       "2022-03-14": 1440,
       "2022-03-13": 1440,
       "2022-03-12": 1440,
@@ -494,8 +495,7 @@
       "2021-03-20": 1440,
       "2021-03-19": 1440,
       "2021-03-18": 1440,
-      "2021-03-17": 1440,
-      "2021-03-16": 1440
+      "2021-03-17": 1440
     }
   }
 ]
