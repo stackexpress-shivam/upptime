@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
     "time": 206,
-    "timeDay": 109,
-    "timeWeek": 188,
-    "timeMonth": 215,
+    "timeDay": 195,
+    "timeWeek": 185,
+    "timeMonth": 214,
     "timeYear": 199,
     "dailyMinutesDown": {
       "2021-10-06": 136,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 241,
-    "timeDay": 199,
-    "timeWeek": 198,
-    "timeMonth": 230,
+    "timeDay": 210,
+    "timeWeek": 194,
+    "timeMonth": 225,
     "timeYear": 244,
     "dailyMinutesDown": {
       "2021-12-07": 18,
@@ -44,8 +44,7 @@
       "2021-10-06": 35,
       "2021-08-08": 15,
       "2021-07-30": 31,
-      "2021-04-21": 35,
-      "2021-03-17": 25
+      "2021-04-21": 35
     }
   },
   {
@@ -59,11 +58,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 335,
-    "timeDay": 208,
-    "timeWeek": 198,
-    "timeMonth": 220,
-    "timeYear": 353,
+    "time": 334,
+    "timeDay": 182,
+    "timeWeek": 201,
+    "timeMonth": 217,
+    "timeYear": 354,
     "dailyMinutesDown": {
       "2021-12-07": 16,
       "2021-10-12": 19,
@@ -72,8 +71,7 @@
       "2021-06-09": 32,
       "2021-04-28": 18,
       "2021-04-27": 154,
-      "2021-04-21": 34,
-      "2021-03-17": 103
+      "2021-04-21": 34
     }
   },
   {
@@ -88,9 +86,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 95,
-    "timeDay": 82,
-    "timeWeek": 94,
-    "timeMonth": 110,
+    "timeDay": 88,
+    "timeWeek": 95,
+    "timeMonth": 111,
     "timeYear": 98,
     "dailyMinutesDown": {}
   },
@@ -106,9 +104,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 216,
-    "timeDay": 112,
-    "timeWeek": 130,
-    "timeMonth": 367,
+    "timeDay": 29,
+    "timeWeek": 117,
+    "timeMonth": 357,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2022-03-08": 28
@@ -120,7 +118,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "24.33%",
+    "uptime": "24.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -131,7 +129,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-16": 70,
+      "2022-03-17": 73,
+      "2022-03-16": 1440,
       "2022-03-15": 1440,
       "2022-03-14": 1440,
       "2022-03-13": 1440,
@@ -494,8 +493,7 @@
       "2021-03-21": 1440,
       "2021-03-20": 1440,
       "2021-03-19": 1440,
-      "2021-03-18": 1440,
-      "2021-03-17": 1440
+      "2021-03-18": 1440
     }
   }
 ]
