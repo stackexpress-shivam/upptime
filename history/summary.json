@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 212,
-    "timeDay": 217,
-    "timeWeek": 264,
-    "timeMonth": 250,
+    "timeDay": 200,
+    "timeWeek": 275,
+    "timeMonth": 249,
     "timeYear": 209,
     "dailyMinutesDown": {
       "2021-10-06": 136,
@@ -27,15 +27,15 @@
     "slug": "apyl",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.94%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 269,
-    "timeDay": 139,
+    "timeDay": 200,
     "timeWeek": 171,
-    "timeMonth": 172,
-    "timeYear": 275,
+    "timeMonth": 173,
+    "timeYear": 274,
     "dailyMinutesDown": {
       "2022-06-14": 15,
       "2021-12-07": 18,
@@ -53,13 +53,13 @@
     "slug": "jodo-host",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "98.94%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 322,
-    "timeDay": 155,
-    "timeWeek": 186,
+    "timeDay": 163,
+    "timeWeek": 182,
     "timeMonth": 179,
     "timeYear": 230,
     "dailyMinutesDown": {
@@ -82,8 +82,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 95,
-    "timeDay": 86,
-    "timeWeek": 85,
+    "timeDay": 68,
+    "timeWeek": 83,
     "timeMonth": 89,
     "timeYear": 99,
     "dailyMinutesDown": {}
@@ -100,10 +100,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 204,
-    "timeDay": 145,
-    "timeWeek": 180,
-    "timeMonth": 196,
-    "timeYear": 220,
+    "timeDay": 314,
+    "timeWeek": 191,
+    "timeMonth": 203,
+    "timeYear": 221,
     "dailyMinutesDown": {
       "2022-03-08": 28
     }
@@ -114,7 +114,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "21.04%",
+    "uptime": "21.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -125,7 +125,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-15": 107,
+      "2022-06-16": 101,
+      "2022-06-15": 1440,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
       "2022-06-12": 1440,
@@ -488,8 +489,7 @@
       "2021-06-20": 1440,
       "2021-06-19": 1440,
       "2021-06-18": 1440,
-      "2021-06-17": 1440,
-      "2021-06-16": 1440
+      "2021-06-17": 1440
     }
   }
 ]
