@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 208,
-    "timeDay": 329,
-    "timeWeek": 266,
-    "timeMonth": 210,
+    "time": 209,
+    "timeDay": 248,
+    "timeWeek": 230,
+    "timeMonth": 209,
     "timeYear": 214,
     "dailyMinutesDown": {
       "2021-10-06": 136,
@@ -29,13 +29,13 @@
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 270,
-    "timeDay": 251,
-    "timeWeek": 208,
-    "timeMonth": 186,
-    "timeYear": 278,
+    "timeDay": 160,
+    "timeWeek": 206,
+    "timeMonth": 184,
+    "timeYear": 277,
     "dailyMinutesDown": {
       "2022-08-06": 27,
       "2022-08-04": 34,
@@ -58,12 +58,12 @@
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 301,
-    "timeDay": 297,
-    "timeWeek": 223,
-    "timeMonth": 251,
+    "timeDay": 149,
+    "timeWeek": 209,
+    "timeMonth": 225,
     "timeYear": 215,
     "dailyMinutesDown": {
       "2022-08-06": 25,
@@ -89,8 +89,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 71,
-    "timeWeek": 92,
+    "timeDay": 73,
+    "timeWeek": 88,
     "timeMonth": 95,
     "timeYear": 98,
     "dailyMinutesDown": {}
@@ -107,10 +107,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 217,
-    "timeDay": 591,
-    "timeWeek": 247,
-    "timeMonth": 264,
-    "timeYear": 226,
+    "timeDay": 74,
+    "timeWeek": 246,
+    "timeMonth": 261,
+    "timeYear": 225,
     "dailyMinutesDown": {
       "2022-03-08": 28
     }
@@ -121,7 +121,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "18.78%",
+    "uptime": "18.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -132,7 +132,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-04": 119,
+      "2022-09-05": 129,
+      "2022-09-04": 1440,
       "2022-09-03": 1440,
       "2022-09-02": 1440,
       "2022-09-01": 1440,
@@ -495,8 +496,7 @@
       "2021-09-09": 1440,
       "2021-09-08": 1440,
       "2021-09-07": 1440,
-      "2021-09-06": 1440,
-      "2021-09-05": 1440
+      "2021-09-06": 1440
     }
   }
 ]
