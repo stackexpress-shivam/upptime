@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 209,
-    "timeDay": 248,
-    "timeWeek": 230,
-    "timeMonth": 209,
+    "timeDay": 282,
+    "timeWeek": 245,
+    "timeMonth": 214,
     "timeYear": 214,
     "dailyMinutesDown": {
       "2021-10-06": 136,
@@ -32,9 +32,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 270,
-    "timeDay": 160,
-    "timeWeek": 206,
-    "timeMonth": 184,
+    "timeDay": 103,
+    "timeWeek": 194,
+    "timeMonth": 182,
     "timeYear": 277,
     "dailyMinutesDown": {
       "2022-08-06": 27,
@@ -61,10 +61,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 301,
-    "timeDay": 149,
-    "timeWeek": 209,
+    "timeDay": 151,
+    "timeWeek": 198,
     "timeMonth": 225,
-    "timeYear": 215,
+    "timeYear": 214,
     "dailyMinutesDown": {
       "2022-08-06": 25,
       "2022-08-04": 32,
@@ -89,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 73,
-    "timeWeek": 88,
-    "timeMonth": 95,
+    "timeDay": 96,
+    "timeWeek": 92,
+    "timeMonth": 96,
     "timeYear": 98,
     "dailyMinutesDown": {}
   },
@@ -107,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 217,
-    "timeDay": 74,
-    "timeWeek": 246,
-    "timeMonth": 261,
+    "timeDay": 279,
+    "timeWeek": 238,
+    "timeMonth": 262,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2022-03-08": 28
@@ -121,7 +121,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "18.76%",
+    "uptime": "18.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -132,7 +132,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-05": 129,
+      "2022-09-06": 131,
+      "2022-09-05": 1440,
       "2022-09-04": 1440,
       "2022-09-03": 1440,
       "2022-09-02": 1440,
@@ -495,8 +496,7 @@
       "2021-09-10": 1440,
       "2021-09-09": 1440,
       "2021-09-08": 1440,
-      "2021-09-07": 1440,
-      "2021-09-06": 1440
+      "2021-09-07": 1440
     }
   }
 ]
