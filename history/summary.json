@@ -4,7 +4,7 @@
     "url": "https://stackexpress-shivam.github.io/upptime/",
     "icon": "https://favicons.githubusercontent.com/stackexpress-shivam.github.io",
     "slug": "stack-express",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 210,
     "timeYear": 215,
     "dailyMinutesDown": {
+      "2022-09-15": 0,
       "2021-10-06": 136,
       "2021-10-05": 1317
     }
@@ -121,7 +122,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "18.51%",
+    "uptime": "18.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -132,7 +133,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-15": 134,
+      "2022-09-15": 1124,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
