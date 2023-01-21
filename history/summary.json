@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 215,
-    "timeDay": 337,
-    "timeWeek": 216,
-    "timeMonth": 218,
+    "timeDay": 209,
+    "timeWeek": 205,
+    "timeMonth": 216,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2022-09-15": 39
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.94%",
     "time": 254,
-    "timeDay": 173,
-    "timeWeek": 144,
-    "timeMonth": 183,
+    "timeDay": 196,
+    "timeWeek": 154,
+    "timeMonth": 186,
     "timeYear": 261,
     "dailyMinutesDown": {
       "2023-01-20": 26,
@@ -54,15 +54,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jodohost.com.ico",
     "slug": "jodo-host",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "98.30%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
     "time": 216,
-    "timeDay": 190,
-    "timeWeek": 164,
-    "timeMonth": 210,
+    "timeDay": 211,
+    "timeWeek": 175,
+    "timeMonth": 214,
     "timeYear": 204,
     "dailyMinutesDown": {
       "2023-01-20": 25,
@@ -86,10 +86,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 102,
+    "time": 101,
     "timeDay": 83,
-    "timeWeek": 134,
-    "timeMonth": 119,
+    "timeWeek": 93,
+    "timeMonth": 110,
     "timeYear": 101,
     "dailyMinutesDown": {}
   },
@@ -105,9 +105,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 219,
-    "timeDay": 146,
+    "timeDay": 101,
     "timeWeek": 169,
-    "timeMonth": 174,
+    "timeMonth": 172,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2022-03-08": 28
@@ -119,7 +119,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "15.88%",
+    "uptime": "15.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -130,7 +130,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-20": 180,
+      "2023-01-21": 77,
+      "2023-01-20": 1440,
       "2023-01-19": 1440,
       "2023-01-18": 1440,
       "2023-01-17": 1440,
@@ -493,8 +494,7 @@
       "2022-01-25": 1440,
       "2022-01-24": 1440,
       "2022-01-23": 1440,
-      "2022-01-22": 1440,
-      "2022-01-21": 1440
+      "2022-01-22": 1440
     }
   }
 ]
