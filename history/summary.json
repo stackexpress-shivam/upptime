@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/stackexpress-shivam.github.io.ico",
     "slug": "stack-express",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 218,
-    "timeDay": 151,
-    "timeWeek": 232,
-    "timeMonth": 223,
+    "timeDay": 78,
+    "timeWeek": 211,
+    "timeMonth": 222,
     "timeYear": 226,
     "dailyMinutesDown": {
       "2022-09-15": 39
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 247,
-    "timeDay": 395,
-    "timeWeek": 238,
-    "timeMonth": 185,
+    "time": 248,
+    "timeDay": 399,
+    "timeWeek": 274,
+    "timeMonth": 192,
     "timeYear": 253,
     "dailyMinutesDown": {
       "2023-01-23": 93,
@@ -61,10 +61,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 301,
-    "timeDay": 446,
-    "timeWeek": 273,
-    "timeMonth": 213,
-    "timeYear": 331,
+    "timeDay": 401,
+    "timeWeek": 311,
+    "timeMonth": 220,
+    "timeYear": 332,
     "dailyMinutesDown": {
       "2023-01-23": 84,
       "2023-01-20": 25,
@@ -89,8 +89,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 102,
-    "timeDay": 70,
-    "timeWeek": 120,
+    "timeDay": 57,
+    "timeWeek": 78,
     "timeMonth": 122,
     "timeYear": 101,
     "dailyMinutesDown": {}
@@ -107,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 213,
-    "timeDay": 501,
-    "timeWeek": 277,
-    "timeMonth": 203,
+    "timeDay": 250,
+    "timeWeek": 292,
+    "timeMonth": 207,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2022-03-08": 28
@@ -121,7 +121,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "15.15%",
+    "uptime": "15.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -132,7 +132,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-04": 79,
+      "2023-03-05": 100,
+      "2023-03-04": 1440,
       "2023-03-03": 1440,
       "2023-03-02": 1440,
       "2023-03-01": 1440,
@@ -495,8 +496,7 @@
       "2022-03-09": 1440,
       "2022-03-08": 1440,
       "2022-03-07": 1440,
-      "2022-03-06": 1440,
-      "2022-03-05": 1440
+      "2022-03-06": 1440
     }
   }
 ]
