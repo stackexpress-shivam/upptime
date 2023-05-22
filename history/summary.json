@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 223,
-    "timeDay": 123,
-    "timeWeek": 220,
-    "timeMonth": 212,
+    "timeDay": 230,
+    "timeWeek": 215,
+    "timeMonth": 215,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2022-09-15": 39
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.91%",
     "time": 322,
-    "timeDay": 439,
-    "timeWeek": 417,
-    "timeMonth": 1258,
+    "timeDay": 381,
+    "timeWeek": 413,
+    "timeMonth": 1253,
     "timeYear": 322,
     "dailyMinutesDown": {
       "2023-05-11": 29,
@@ -63,10 +63,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 361,
-    "timeDay": 436,
-    "timeWeek": 444,
-    "timeMonth": 977,
-    "timeYear": 424,
+    "timeDay": 395,
+    "timeWeek": 430,
+    "timeMonth": 971,
+    "timeYear": 425,
     "dailyMinutesDown": {
       "2023-04-17": 18,
       "2023-01-23": 84,
@@ -92,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 76,
-    "timeWeek": 148,
-    "timeMonth": 120,
+    "timeDay": 229,
+    "timeWeek": 168,
+    "timeMonth": 121,
     "timeYear": 105,
     "dailyMinutesDown": {}
   },
@@ -110,9 +110,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 333,
-    "timeWeek": 182,
-    "timeMonth": 204,
+    "timeDay": 279,
+    "timeWeek": 208,
+    "timeMonth": 202,
     "timeYear": 210,
     "dailyMinutesDown": {}
   },
@@ -122,7 +122,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "13.98%",
+    "uptime": "13.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -133,7 +133,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-21": 77,
+      "2023-05-22": 77,
+      "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
@@ -496,8 +497,7 @@
       "2022-05-26": 1440,
       "2022-05-25": 1440,
       "2022-05-24": 1440,
-      "2022-05-23": 1440,
-      "2022-05-22": 1440
+      "2022-05-23": 1440
     }
   }
 ]
