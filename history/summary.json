@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 229,
-    "timeDay": 307,
-    "timeWeek": 191,
-    "timeMonth": 228,
+    "timeDay": 285,
+    "timeWeek": 199,
+    "timeMonth": 229,
     "timeYear": 225,
-    "dailyMinutesDown": {
-      "2022-09-15": 39
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "APYL",
@@ -26,14 +24,14 @@
     "slug": "apyl",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "96.50%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.32%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.92%",
-    "time": 344,
-    "timeDay": 368,
-    "timeWeek": 419,
-    "timeMonth": 416,
+    "time": 345,
+    "timeDay": 448,
+    "timeWeek": 425,
+    "timeMonth": 418,
     "timeYear": 387,
     "dailyMinutesDown": {
       "2023-09-13": 50,
@@ -57,15 +55,15 @@
     "slug": "jodo-host",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "96.60%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.34%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.93%",
-    "time": 453,
-    "timeDay": 397,
-    "timeWeek": 461,
+    "time": 454,
+    "timeDay": 450,
+    "timeWeek": 471,
     "timeMonth": 442,
-    "timeYear": 518,
+    "timeYear": 519,
     "dailyMinutesDown": {
       "2023-09-13": 49,
       "2023-09-12": 17,
@@ -92,8 +90,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 311,
-    "timeWeek": 161,
+    "timeDay": 74,
+    "timeWeek": 122,
     "timeMonth": 132,
     "timeYear": 113,
     "dailyMinutesDown": {}
@@ -110,10 +108,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 227,
-    "timeWeek": 232,
-    "timeMonth": 191,
-    "timeYear": 205,
+    "timeDay": 209,
+    "timeWeek": 246,
+    "timeMonth": 189,
+    "timeYear": 204,
     "dailyMinutesDown": {}
   },
   {
@@ -122,7 +120,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "12.55%",
+    "uptime": "12.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -133,7 +131,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-14": 60,
+      "2023-09-15": 62,
+      "2023-09-14": 1440,
       "2023-09-13": 1440,
       "2023-09-12": 1440,
       "2023-09-11": 1440,
@@ -496,8 +495,7 @@
       "2022-09-19": 1440,
       "2022-09-18": 1440,
       "2022-09-17": 1440,
-      "2022-09-16": 1440,
-      "2022-09-15": 1440
+      "2022-09-16": 1440
     }
   }
 ]
