@@ -4,19 +4,19 @@
     "url": "https://stackexpress-shivam.github.io/upptime/",
     "icon": "https://icons.duckduckgo.com/ip3/stackexpress-shivam.github.io.ico",
     "slug": "stack-express",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 229,
-    "timeDay": 93,
-    "timeWeek": 233,
+    "timeDay": 140,
+    "timeWeek": 234,
     "timeMonth": 241,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2023-10-03": 0
+      "2023-10-03": 21
     }
   },
   {
@@ -133,7 +133,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-03": 126,
+      "2023-10-03": 147,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
