@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
-    "timeDay": 200,
-    "timeWeek": 161,
-    "timeMonth": 217,
-    "timeYear": 218,
+    "timeDay": 202,
+    "timeWeek": 160,
+    "timeMonth": 222,
+    "timeYear": 217,
     "dailyMinutesDown": {
       "2023-10-03": 21
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/apyl.com.ico",
     "slug": "apyl",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 453,
-    "timeDay": 224,
-    "timeWeek": 192,
-    "timeMonth": 191,
-    "timeYear": 483,
+    "timeDay": 139,
+    "timeWeek": 185,
+    "timeMonth": 188,
+    "timeYear": 482,
     "dailyMinutesDown": {
       "2024-03-12": 630,
       "2024-03-11": 634,
@@ -44,8 +44,7 @@
       "2023-09-12": 19,
       "2023-08-08": 57,
       "2023-07-15": 33,
-      "2023-05-29": 19,
-      "2023-05-11": 29
+      "2023-05-29": 19
     }
   },
   {
@@ -60,9 +59,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 566,
-    "timeDay": 245,
-    "timeWeek": 229,
-    "timeMonth": 227,
+    "timeDay": 192,
+    "timeWeek": 216,
+    "timeMonth": 226,
     "timeYear": 566,
     "dailyMinutesDown": {
       "2024-04-08": 38,
@@ -92,9 +91,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 111,
-    "timeDay": 77,
-    "timeWeek": 105,
-    "timeMonth": 120,
+    "timeDay": 185,
+    "timeWeek": 119,
+    "timeMonth": 124,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2024-05-01": 31,
@@ -113,8 +112,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 370,
-    "timeWeek": 194,
+    "timeDay": 166,
+    "timeWeek": 204,
     "timeMonth": 244,
     "timeYear": 214,
     "dailyMinutesDown": {}
@@ -136,7 +135,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-09": 65,
+      "2024-05-10": 66,
+      "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
       "2024-05-06": 1440,
@@ -499,8 +499,7 @@
       "2023-05-15": 1440,
       "2023-05-14": 1440,
       "2023-05-13": 1440,
-      "2023-05-12": 1440,
-      "2023-05-11": 1440
+      "2023-05-12": 1440
     }
   }
 ]
