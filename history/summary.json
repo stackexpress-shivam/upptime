@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/stackexpress-shivam.github.io.ico",
     "slug": "stack-express",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 124,
-    "timeWeek": 225,
-    "timeMonth": 206,
-    "timeYear": 212,
+    "time": 217,
+    "timeDay": 462,
+    "timeWeek": 232,
+    "timeMonth": 213,
+    "timeYear": 213,
     "dailyMinutesDown": {
       "2023-10-03": 21
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
-    "time": 447,
-    "timeDay": 222,
-    "timeWeek": 302,
-    "timeMonth": 247,
-    "timeYear": 382,
+    "time": 446,
+    "timeDay": 224,
+    "timeWeek": 299,
+    "timeMonth": 248,
+    "timeYear": 381,
     "dailyMinutesDown": {
       "2024-03-12": 630,
       "2024-03-11": 634,
@@ -58,7 +58,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 518,
-    "timeDay": 236,
+    "timeDay": 305,
     "timeWeek": 217,
     "timeMonth": 229,
     "timeYear": 490,
@@ -87,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 110,
-    "timeDay": 56,
-    "timeWeek": 132,
-    "timeMonth": 92,
+    "timeDay": 94,
+    "timeWeek": 134,
+    "timeMonth": 93,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2024-05-01": 31,
@@ -108,9 +108,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 179,
-    "timeWeek": 184,
-    "timeMonth": 214,
+    "timeDay": 226,
+    "timeWeek": 183,
+    "timeMonth": 222,
     "timeYear": 211,
     "dailyMinutesDown": {}
   },
@@ -123,7 +123,7 @@
     "uptime": "9.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -131,7 +131,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-30": 75,
+      "2024-07-01": 78,
+      "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
@@ -494,8 +495,7 @@
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
-      "2023-07-03": 1440,
-      "2023-07-02": 1440
+      "2023-07-03": 1440
     }
   }
 ]
